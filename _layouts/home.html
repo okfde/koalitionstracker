@@ -1,0 +1,22 @@
+---
+
+layout: default
+
+---
+
+<article>
+  {{ content }}
+</article>
+
+{% for chapter in site.chapters %}
+  <section>
+    <header>
+      <h3>
+        <a href="{{ site.baseurl }}{{ chapter.url }}">
+          {{ chapter.title }}
+        </a>
+      </h3>
+    </header>
+    {% include statements.html statements=chapter.statements %}
+  </section>
+{% endfor %}

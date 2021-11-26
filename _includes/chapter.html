@@ -1,0 +1,9 @@
+
+
+  <h2>
+    <a href="{{ site.baseurl }}{{ chapter.url }}">{{ chapter.title }}</a>
+  </h2>
+  
+  <p>{{ chapter.content | markdownify }}</p>
+  
+  {% include statements.html statements=chapter.statements %} 

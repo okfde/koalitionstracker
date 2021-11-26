@@ -1,0 +1,16 @@
+---
+
+layout: default
+
+---
+
+
+<section>
+  <h2>Zusammenfassung für „{{ page.title }}“</h2>
+  {% include statements.html statements=page.statements %} 
+</section>
+
+<article>
+  <h2>{{ page.title }}</h2>
+  {{ content }}
+</article>

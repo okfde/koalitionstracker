@@ -1,0 +1,38 @@
+<table>
+  <thead>
+    <th>Vorhaben</th>
+    <th>Status</th>
+    <th>Datum</th>
+    <th>Nachweise</th>
+  </thead>
+  <tbody>
+{% for statement in include.statements %}
+<tr>
+  <td class="allow-wrap">{{ statement.summary }}</td>
+  <td>
+    {% if statement.status == "not_implemented" %}
+      ⚪️
+    {% else if statement.status == "implemented" %}
+      ✅
+    {% else if statement.status == "partially_implemented" %}
+      ☑️
+    {% else if statement.status == "broken" %}
+      ❌
+    {% endif %}
+  </td>
+  <td>{% if statement.last_update %}{{ statement.last_update }}{% else %}-{% endif %}</td>
+  <td>
+    {% if statement.reports %}
+      <ul>
+      {% for report in statement.reports %}
+        <li>
+          <a href="{{ report.url }}">{{ report.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
