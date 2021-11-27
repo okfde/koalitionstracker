@@ -33,3 +33,5 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - scripts/
+  - requirements.txt
