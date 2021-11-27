@@ -7,13 +7,21 @@ collections:
     permalink: /kapitel/:name/
     layout: chapter
 
-
 defaults:
   - scope:
       path: ""
       type: "chapters"
     values:
       layout: "chapter"
+      title:
+      section:
+      statements:
+      - summary:
+        status: "not_implemented"
+        last_update:
+        reports:
+        - title:
+          url:
 
 # Build settings
 markdown: kramdown
