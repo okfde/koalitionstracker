@@ -14,7 +14,7 @@ statements:
     reports:
       - title: "Test2"
         url: "http://example.org"
-
+publish: true
 ---
 
 Wir wollen einen grundlegenden Wandel hin zu einem ermöglichenden, lernenden und digitalen Staat, der vorausschauend für die Bürgerinnen und Bürger arbeitet. Es geht darum, das Leben einfacher zu machen. Staatliches Handeln soll schneller und effektiver werden und wirtschaftliche wie gesellschaftliche Innovationsprozesse befördern und einbinden. Wir wollen eine neue Kultur der Zusammenarbeit etablieren, die auch aus der Kraft der Zivilgesellschaft heraus gespeist wird.
@@ -29,7 +29,9 @@ Die Modernisierung des Staates gelingt nur mit einem starken Öffentlichen Diens
 
 ### Lebendige Demokratie
 
-Demokratie lebt vom Vertrauen in alle staatlichen Institutionen und Verfassungsorgane. Wir werden daher das Parlament als Ort der Debatte und der Gesetzgebung stärken. Wir wollen die Qualität der Gesetzgebung verbessern. Dazu werden wir neue Vorhaben frühzeitig und ressortübergreifend, auch in neuen Formaten, diskutieren. Wir werden dabei die Praxis und betroffene Kreise aus der Gesellschaft und Vertreterinnen und Vertreter des Parlaments besser einbinden sowie die Erfahrungen und Erfordernisse von Ländern und Kommunen bei der konkreten Gesetzesausführung berücksichtigen. Im Vorfeld des Gesetzgebungsverfahrens soll die Möglichkeit der digitalen Ausführung geprüft werden (Digitalcheck). Wir werden ein Zentrum für Legistik errichten.
+Demokratie lebt vom Vertrauen in alle staatlichen Institutionen und Verfassungsorgane. Wir werden daher das Parlament als Ort der Debatte und der Gesetzgebung stärken.
+
+Wir wollen die Qualität der Gesetzgebung verbessern. Dazu werden wir neue Vorhaben frühzeitig und ressortübergreifend, auch in neuen Formaten, diskutieren. Wir werden dabei die Praxis und betroffene Kreise aus der Gesellschaft und Vertreterinnen und Vertreter des Parlaments besser einbinden sowie die Erfahrungen und Erfordernisse von Ländern und Kommunen bei der konkreten Gesetzesausführung berücksichtigen. Im Vorfeld des Gesetzgebungsverfahrens soll die Möglichkeit der digitalen Ausführung geprüft werden (Digitalcheck). Wir werden ein Zentrum für Legistik errichten.
 
 Wir werden ein digitales Gesetzgebungsportal schaffen, über das einsehbar ist, in welcher Phase sich Vorhaben befinden. Dort werden wir öffentliche Kommentierungsmöglichkeiten erproben. Gesetzentwürfen der Bundesregierung wird künftig eine Synopse beigefügt, die die aktuelle Rechtslage den geplanten Änderungen gegenüberstellt. Wir wollen Gesetze verständlicher machen. Die Barrierefreiheit in den Angeboten von Bundestag und Bundesregierung werden wir ausbauen.
 
@@ -45,13 +47,11 @@ Parteiensponsoring werden wir ab einer Bagatellgrenze veröffentlichungspflichti
 
 Politische Bildung und Demokratieförderung sind mehr gefordert denn je, denn auch in Deutschland steht die pluralistische, freiheitliche Demokratie unter Druck. Akteurinnen und Akteure der nachhaltigen Demokratieförderung, die auf Basis von Respekt, Toleranz, Würde und Menschenrechten arbeiten, werden auch in Zukunft mit öffentlichen Mitteln gefördert. Die Arbeit und Finanzierung der politischen Stiftungen wollen wir rechtlich besser absichern. Dies soll aus der Mitte des Parlaments geschehen unter Einbeziehung möglichst aller demokratischen Fraktionen. Die Informationsfreiheitsgesetze werden wir zu einem Bundestransparenzgesetz weiterentwickeln.
 
-
 ### Föderalismus
 
 Der Föderalismus ist eine Grundsäule der Bundesrepublik. Um die Leistungsfähigkeit zu erhöhen, braucht es Klarheit bei den Aufgaben und der Finanzierung. Wir streben eine engere, zielgenauere und verbindliche Kooperation zwischen Bund, Ländern und Kommunen an. Dazu werden wir gemeinsam mit Kommunen und Ländern einen Föderalismusdialog zur transparenteren und effizienteren Verteilung der Aufgaben, insbesondere zu den Themen Katastrophen- und Bevölkerungsschutz, Bildung und Innere Sicherheit sowie zur Nutzung der Möglichkeiten der Digitalisierung, führen.
 
 Wir stehen zum Bonn-Berlin-Gesetz. Hierzu wird der Bund mit der Region Bonn sowie den Ländern Nordrhein-Westfalen und Rheinland-Pfalz eine vertragliche Zusatzvereinbarung abschließen.
-
 
 ### Wahlrecht
 
@@ -69,7 +69,6 @@ Um Deutschland zügig zu modernisieren, sind schnelle Verwaltungs-, Planungs- un
 Wir werden die personellen und technischen Kapazitäten bei Behörden und Gerichten erhöhen. Für eine Personal- und Weiterbildungsoffensive sowie die Digitalisierung auf allen Ebenen streben wir einen verlässlichen und nachhaltigen Pakt für Planungs-, Genehmigungs- und Umsetzungsbeschleunigung mit den Ländern an. Die Inhouse-Beratungskapazitäten der öffentlichen Hand werden zu Beschleunigungsagenturen ausgebaut, auf die auch Länder und Kommunen einfach zugreifen können. Die Einsatzmöglichkeiten für private Projektmanagerinnen und Projektmanager werden ausgedehnt. Für Angelegenheiten des Planungsrechts schaffen wir die Voraussetzungen für zusätzliche Senate am Bundesverwaltungsgericht. Die Bundesregierung verstärkt ihre Kompetenz zur Unterstützung dialogischer Bürgerbeteiligungsverfahren.
 
 Die Digitalisierung von Planungs- und Genehmigungsprozessen werden wir priorisiert umsetzen. Wir werden Behörden mit notwendiger Technik ausstatten, IT-Schnittstellen zwischen Bund und Ländern standardisieren und das digitale Portal für Umweltdaten zu einem öffentlich nutzbaren zentralen Archiv für Kartierungs- und Artendaten ausbauen. Bereits erhobene Daten sind, ggf. durch Plausibilisierungen, möglichst lange nutzbar zu machen. Planungsprozesse werden mit Gebäudedatenmodellierung (Building Information Modeling) effizienter, kostengünstiger und transparenter gestaltet. Die digitalen Möglichkeiten des Planungssicherstellungsgesetzes werden wir nahtlos fortsetzen und insbesondere im Hinblick auf die Bürgerbeteiligung weiterentwickeln.
-
 
 Um Verwaltungsverfahren zu beschleunigen, werden wir eine frühestmögliche und intensive Öffentlichkeitsbeteiligung einführen. Diese wird mit einer Mitwirkungspflicht für die anerkannten Naturschutzverbände und für die betroffene Öffentlichkeit kombiniert. Wir wollen eine wirksame und unionsrechtlich zulässige Form der materiellen Präklusion einführen. Wir werden frühzeitige Verfahrenskonferenzen in den Behörden einführen.
 
