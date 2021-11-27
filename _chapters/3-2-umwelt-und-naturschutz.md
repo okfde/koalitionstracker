@@ -2,7 +2,7 @@
 title: "3.2 Umwelt- und Naturschutz"
 section: "III"
 statements: []
-publish: true
+published: true
 ---
 
 Die 17 Globalen Nachhaltigkeitsziele der Vereinten Nationen (SDG) sind Richtschnur unserer Politik. Damit schützen wir die Freiheit und Chancen jetziger und kommender Generationen. Wir werden die Deutsche Nachhaltigkeitsstrategie und das Maßnahmenprogramm Nachhaltigkeit weiterentwickeln und die Governance-Strukturen überprüfen.

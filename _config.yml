@@ -18,6 +18,7 @@ defaults:
       statements:
       - summary:
         id:
+        categories:
         status: "not_implemented"
         last_update:
         reports:

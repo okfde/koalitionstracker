@@ -2,7 +2,7 @@
 title: "3.3 Landwirtschaft und Ernährung"
 section: "III"
 statements: []
-publish: true
+published: true
 ---
 
 Eine nachhaltige Landwirtschaft dient zugleich den Interessen der Betriebe, des Tierwohls und der Natur und ist Grundlage einer gesunden Ernährung.

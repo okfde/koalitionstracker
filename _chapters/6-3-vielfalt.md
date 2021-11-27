@@ -2,7 +2,7 @@
 title: "6.3 Vielfalt"
 section: "VI"
 statements: []
-publish: true
+published: true
 ---
 
 Jede und Jeder hat die gleichen Rechte, sollte die gleichen Chancen haben und vor Diskriminierung geschützt sein. Wir fördern die vielfältige, tolerante und demokratische Zivilgesellschaft.

@@ -2,7 +2,7 @@
 title: "4.1 Arbeit"
 section: "IV"
 statements: []
-publish: true
+published: true
 ---
 
 Wir wollen die moderne Arbeitswelt gestalten, dabei berufliche Chancen ermöglichen sowie Sicherheit und Flexibilität in Einklang bringen.

@@ -2,7 +2,7 @@
 title: "7.2 Integration, Migration, Flucht"
 section: "VII"
 statements: []
-publish: true
+published: true
 ---
 
 Wir wollen einen Neuanfang in der Migrations- und Integrationspolitik gestalten, der einem modernen Einwanderungsland gerecht wird. Dafür brauchen wir einen Paradigmenwechsel: Mit einer aktiven und ordnenden Politik wollen wir Migration vorausschauend und realistisch gestalten. Wir werden irreguläre Migration reduzieren und reguläre Migration ermöglichen. Wir stehen zu unserer humanitären Verantwortung und den Verpflichtungen, die sich aus dem Grundgesetz, der Genfer Flüchtlingskonvention (GFK), der Europäischen Menschenrechtskonvention (EMRK) und dem Europarecht ergeben, um Geflüchtete zu schützen und Fluchtursachen zu bekämpfen.

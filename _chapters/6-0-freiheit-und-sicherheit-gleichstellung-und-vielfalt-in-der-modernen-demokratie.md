@@ -2,7 +2,7 @@
 title: "6. Freiheit und Sicherheit, Gleichstellung und Vielfalt in der modernen Demokratie"
 section: "VI"
 statements: []
-publish: true
+published: true
 ---
 
 Freiheit, Sicherheit und Rechtsstaatlichkeit sind die Grundlagen für das friedliche Zusammenleben in Deutschland. Wir stellen uns allen verfassungsfeindlichen, gewaltbereiten Bestrebungen und Verschwörungsideologien entschieden entgegen. Leben in Freiheit braucht Sicherheit. Unsere Verantwortung ist die Sicherheit der Bürgerinnen und Bürger. Dafür die Sicherheitsbehörden, den Bevölkerungsschutz und die Justiz. Sicherheitsgesetze und deren Auswirkungen auf Bürgerrechte werden wir im Lichte der technischen Entwicklung einer unabhängigen wissenschaftlichen Evaluation unterziehen.

@@ -2,7 +2,7 @@
 title: "6.5 Gute Lebensverhältnisse in Stadt und Land"
 section: "VI"
 statements: []
-publish: true
+published: true
 ---
 
 Wir wollen für gute Lebensbedingungen in Stadt und Land sorgen. Wir werden intensiv daran arbeiten, die innere Einheit sozial und wirtschaftlich zu vollenden. Insbesondere die Erfahrungen der Ostdeutschen wollen wir für die anstehenden Transformationsprozesse in ganz Deutschland nutzen. Digitalisierung, Energiewende und neue Formen der Mobilität eröffnen die Chance auf noch mehr regionale Wertschöpfung und eine neue Dynamik.

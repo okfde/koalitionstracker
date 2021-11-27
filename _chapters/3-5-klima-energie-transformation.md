@@ -2,7 +2,7 @@
 title: "3.5 Klima, Energie, Transformation"
 section: "III"
 statements: []
-publish: true
+published: true
 ---
 
 Der menschengemachte Klimawandel ist eine der größten Herausforderungen unserer Zeit. Wir

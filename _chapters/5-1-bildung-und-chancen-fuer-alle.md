@@ -2,7 +2,7 @@
 title: "5.1 Bildung und Chancen für alle"
 section: "V"
 statements: []
-publish: true
+published: true
 ---
 
 Gemeinsam mit den Ländern werden wir die öffentlichen Bildungsausgaben deutlich steigern und dafür sorgen, dass die Unterstützung dauerhaft dort ankommt, wo sie am dringendsten gebraucht wird. Mit einer Stärkung der frühkindlichen Bildung, besseren Startchancen in sozial benachteiligten Schulen, einem Digitalpakt 2.0 und einem grundlegend reformierten BAföG legen wir den Grundstein für ein Jahrzehnt der Bildungschancen.

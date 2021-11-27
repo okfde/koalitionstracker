@@ -2,7 +2,7 @@
 title: "1. Präambel"
 section: "I"
 statements: []
-publish: true
+published: true
 ---
 
 Das Ergebnis der Bundestagswahl verstehen unsere drei Parteien als Auftrag, eine gemeinsame Regierungskoalition zu bilden.

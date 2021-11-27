@@ -2,7 +2,7 @@
 title: "4. Respekt, Chancen und soziale Sicherheit in der modernen Arbeitswelt"
 section: "IV"
 statements: []
-publish: true
+published: true
 ---
 
 Ein hohes Beschäftigungsniveau und gerechte Entlohnung sind Grundlage für unseren Wohlstand und die Finanzierung unserer sozialen Sicherung. Wir wollen jeder und jedem eine möglichst sichere Beschäftigungsbiografie ermöglichen und die Beschäftigungsfähigkeit durch Qualifizierung und gesunde Arbeit erhalten. Jede Arbeit verdient Respekt und Anerkennung. Wir erhöhen den Mindestlohn und schaffen ein modernes Arbeitsrecht, das Sicherheit und fair ausgehandelte Flexibilität ermöglicht.

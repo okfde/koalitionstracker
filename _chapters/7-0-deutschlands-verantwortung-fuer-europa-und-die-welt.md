@@ -2,7 +2,7 @@
 title: "7. Deutschlands Verantwortung für Europa und die Welt"
 section: "VII"
 statements: []
-publish: true
+published: true
 ---
 
 Die Umbrüche, vor denen Deutschland steht, lassen sich nicht allein national bewältigen. Wir handeln im europäischen Selbstverständnis, eingebettet in das historische Friedens- und Freiheitsprojekt der Europäischen Union (EU). Eine demokratisch gefestigte, handlungsfähige und strategisch souveräne EU ist die Grundlage für unseren Frieden und Wohlstand. Wir setzen uns für eine EU ein, die ihre Werte und ihre Rechtsstaatlichkeit nach innen wie außen schützt und entschlossen für sie eintritt. Wir werden eine Regierung bilden, die deutsche Interessen im Lichte europäischer Interessen definiert. Als größter Mitgliedstaat werden wir unsere besondere Verantwortung in einem dienenden Verständnis für die EU als Ganzes wahrnehmen.

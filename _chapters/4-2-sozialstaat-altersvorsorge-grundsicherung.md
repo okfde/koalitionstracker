@@ -2,7 +2,7 @@
 title: "4.2 Sozialstaat, Altersvorsorge, Grundsicherung"
 section: "IV"
 statements: []
-publish: true
+published: true
 ---
 
 Wir werden den Sozialstaat bürgerfreundlicher, transparenter und unbürokratischer machen, und ihn auf die Lebenswirklichkeiten unserer Zeit ausrichten. Ein Schritt zu mehr Bürgernähe ist die umfassende Digitalisierung von Leistungen. Information, Beratung, Antragstellung sowie Kommunikation und Abfragen unter den zuständigen Stellen müssen unter Wahrung des Datenschutzes digital und einfach möglich werden. Auch soll die Qualität analoger Beratung durch digitale Unterstützung verbessert werden. Wo immer möglich, sollen Leistungen, die Bürgerinnen und Bürger zustehen, automatisch ausgezahlt werden. Bürgerinnen und Bürger sollen die ihnen zustehenden Leistungen wie aus einer Hand erhalten, im Rahmen möglichst niedrigschwelliger, einheitlicher Anlaufstellen vor Ort. Dazu werden wir eine Bund-Länder-Arbeitsgruppe einrichten und die Sozialversicherungsträger beteiligen.

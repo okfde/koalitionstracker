@@ -2,7 +2,7 @@
 title: "6.1 Innere Sicherheit, Bürgerrechte, Justiz, Verbraucherschutz, Sport"
 section: "VI"
 statements: []
-publish: true
+published: true
 ---
 
 Deutschland ist eines der sichersten Länder der Welt. Wir wollen es noch sicherer machen. Dafür organisieren wir die Sicherheit der Menschen, um allen ein Leben in Freiheit, Wohlstand und Vielfalt zu gewährleisten. Wir sorgen für eine bürgernahe, gut ausgestattete und ausgebildete Polizei und unterstützen die Arbeit der Gerichte.

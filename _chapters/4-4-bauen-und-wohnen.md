@@ -2,7 +2,7 @@
 title: "4.4 Bauen und Wohnen"
 section: "IV"
 statements: []
-publish: true
+published: true
 ---
 
 Wohnen ist ein Grundbedürfnis und so vielfältig wie die Menschen. Wir werden das Bauen und Wohnen der Zukunft bezahlbar, klimaneutral, nachhaltig, barrierearm, innovativ und mit lebendigen öffentlichen Räumen gestalten. Dabei haben wir die Vielfalt der Rahmenbedingungen und Wohnformen und individuellen Bedürfnisse der Menschen in ländlichen und urbanen Räumen im Blick.

@@ -2,7 +2,7 @@
 title: "6.2 Gleichstellung"
 section: "VI"
 statements: []
-publish: true
+published: true
 ---
 
 Die Gleichstellung von Frauen und Männern muss in diesem Jahrzehnt erreicht werden. Wir werden die ressortübergreifende Gleichstellungsstrategie des Bundes weiterentwickeln, u. a. mit einem Gleichstellungs-Check künftiger Gesetze und Maßnahmen. Wir werden den Gender Data Gap schließen, z. B. im medizinischen Bereich.

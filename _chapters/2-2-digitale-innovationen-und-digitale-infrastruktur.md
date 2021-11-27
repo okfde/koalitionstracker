@@ -2,7 +2,7 @@
 title: "2.2 Digitale Innovationen und digitale Infrastruktur"
 section: "II"
 statements: []
-publish: true
+published: true
 ---
 
 Deutschland braucht einen umfassenden digitalen Aufbruch. Wir wollen das Potenzial der Digitalisierung für die Entfaltungsmöglichkeiten der Menschen, für Wohlstand, Freiheit, soziale Teilhabe und Nachhaltigkeit nutzen. Dafür werden wir uns ambitionierte und überprüfbare Ziele setzen sowie realistische und schnell spürbare Maßnahmen ergreifen. Kompetenzen in der Bundesregierung werden neu geordnet und gebündelt, ein zentrales zusätzliches Digitalbudget eingeführt und Gesetze einem Digitalisierungscheck unterzogen. Die Verwaltung wird digitaler und konsequent bürgerorientiert. Wir fördern digitale Innovationen sowie unternehmerische und gesellschaftliche Initiative und setzen auf offene Standards und Diversität. Wir stärken die Digitalkompetenz, Grundrechte, Selbstbestimmung und den gesellschaftlichen Zusammenhalt. Wir sorgen für Sicherheit und Respekt auch in Zeiten des Wandels. Wir machen aus technologischem auch gesellschaftlichen Fortschritt. Dabei ist uns bewusst: Ein digitaler Aufbruch, der unsere Werte, die digitale Souveränität und einen starken Technologiestandort sichert, gelingt nur in einem fortschrittlichen europäischen Rahmen.

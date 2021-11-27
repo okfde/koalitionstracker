@@ -2,7 +2,7 @@
 title: "6.4 Kultur- und Medienpolitik"
 section: "VI"
 statements: []
-publish: true
+published: true
 ---
 
 Wir wollen Kultur mit allen ermöglichen, indem wir ihre Vielfalt und Freiheit sichern, unabhängig von Organisations- oder Ausdrucksform, von Klassik bis Comic, von Plattdeutsch bis Plattenladen. Wir sind überzeugt: Kulturelle und künstlerische Impulse können den Aufbruch unserer Gesellschaft befördern, sie inspirieren und schaffen öffentliche Debattenräume.
