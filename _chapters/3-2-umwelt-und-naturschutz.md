@@ -52,6 +52,7 @@ Gemeinsam mit den Ländern setzen wir die EU-Wasserrahmenrichtlinie zum Schutz d
 Wir ergreifen alle notwendigen Maßnahmen, um europarechtliche Verpflichtungen zur Minderung von Stickstoffeinträgen in Wasser und Luft sicher zu erreichen, und wenden damit Strafzahlungen an die EU ab.
 
 ### Luftreinhaltung
+
 Wir wollen die Luftbelastung weiter reduzieren, um die menschliche Gesundheit und die Umwelt nachhaltig zu schützen. Wir unterstützen das Vorhaben der Europäischen Kommission, die EU- Luftqualitätsrichtlinie zu novellieren, um schrittweise neueste Standards zu erreichen. Wir werden für Transparenz bei Ablassen von Kerosin sorgen und Möglichkeiten der Vermeidung entwickeln. Kommunen werden wir auf dem Weg zu besserer Luftqualität unterstützen. BVT-Schlussfolgerungen setzen wir fristgerecht und nachhaltig um. Um die Minderungsziele aus der Richtlinie über nationale Emissionshöchstmengen fristgerecht zu erreichen, setzen wir im nationalen Luftreinhalteprogramm alle erforderlichen Maßnahmen um.
 
 ### Bodenschutz

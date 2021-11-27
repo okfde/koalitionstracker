@@ -61,7 +61,6 @@ Wir werden die „Kommission zur Reform des Bundeswahlrechts und zur Modernisier
 
 Wir werden das aktive Wahlalter für die Wahlen zum Europäischen Parlament auf 16 Jahre senken. Wir wollen das Grundgesetz ändern, um das aktive Wahlalter für die Wahl zum Deutschen Bundestag auf 16 Jahre zu senken. Wir wollen die Ausübung des Wahlrechts für im Ausland lebende Deutsche erleichtern.
 
-
 ### Planungs- und Genehmigungsbeschleunigung
 
 Um Deutschland zügig zu modernisieren, sind schnelle Verwaltungs-, Planungs- und Genehmigungsverfahren zentrale Voraussetzung. Daher sollen im ersten Jahr der Regierung alle notwendigen Entscheidungen getroffen und durchgesetzt werden, um private wie staatliche Investitionen schnell, effizient und zielsicher umsetzen zu können. Unser Ziel ist es, die Verfahrensdauer mindestens zu halbieren. Dafür müssen Staat und Gesellschaft sowie Bund, Länder und Kommunen an einem Strang ziehen. Wir wollen eine auf Rechtssicherheit und gegenseitigem Vertrauen fußende Planungskultur in Deutschland verwirklichen. Alle staatlichen Stellen sollen Verwaltungsverfahren so vereinfachen und verbessern, dass gerichtliche Auseinandersetzungen möglichst vermieden werden. Wir werden mehr Möglichkeiten im Rahmen des Verfassungs- und Unionsrechts ausnutzen.
