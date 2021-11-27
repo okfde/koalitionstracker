@@ -1,6 +1,6 @@
 ---
 title: "6.1 Innere Sicherheit, Bürgerrechte, Justiz, Verbraucherschutz, Sport"
-section: ""
+section: "VI"
 statements: []
 
 ---

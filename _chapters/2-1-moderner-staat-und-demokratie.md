@@ -1,6 +1,6 @@
 ---
 title: "2.1 Moderner Staat und Demokratie"
-section: ""
+section: "II"
 statements:
   - summary: "Straftatbestand der Abgeordnetenbestechung und -bestechlichkeit wirksamer ausgestalten"
     status: "not_implemented"

@@ -17,6 +17,7 @@ defaults:
       section:
       statements:
       - summary:
+        id:
         status: "not_implemented"
         last_update:
         reports:
