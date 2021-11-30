@@ -7,8 +7,16 @@
   </thead>
   <tbody>
 {% for statement in include.statements %}
-<tr>
-  <td class="allow-wrap">{{ statement.summary }}</td>
+<tr id="{{ statement.id }}">
+  <td class="allow-wrap">
+    {{ statement.summary }}
+    <small>
+      <a class="back-ref" href="#ref-{{ statement.id }}" title="Stelle im Text">
+        📃
+        <span class="sr-only">Stelle im Text</span>
+      </a>
+    </small>
+  </td>
   <td>
     {% if statement.status == "not_implemented" %}
       ⚪️
