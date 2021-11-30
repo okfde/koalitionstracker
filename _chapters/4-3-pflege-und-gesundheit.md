@@ -2,7 +2,7 @@
 title: "4.3 Pflege und Gesundheit"
 section: "IV"
 statements: []
-published: true
+published: false
 ---
 
 Alle Menschen in Deutschland sollen gut versorgt und gepflegt werden – in der Stadt und auf dem Land. Wir wollen einen Aufbruch in eine moderne sektorenübergreifende Gesundheits- und Pflegepolitik und ziehen Lehren aus der Pandemie, die uns die Verletzlichkeit unseres Gesundheitswesens vor Augen geführt hat. Wir sorgen für eine bedarfsgerechte Gesundheitsversorgung und eine menschliche und qualitativ hochwertige Medizin und Pflege. Wir verbessern die Arbeitsbedingungen der Gesundheitsberufe und Pflegekräfte. Wir ermöglichen Innovationen und treiben die Digitalisierung voran. Grundlage für all dies ist eine auf lange Sicht stabile Finanzierung des Gesundheitswesens und der Pflege.

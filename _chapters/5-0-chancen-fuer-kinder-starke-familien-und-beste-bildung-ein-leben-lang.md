@@ -2,7 +2,7 @@
 title: "5. Chancen für Kinder, starke Familien und beste Bildung ein Leben lang"
 section: "V"
 statements: []
-published: true
+published: false
 ---
 
 Wir wollen allen Menschen unabhängig von ihrer Herkunft beste Bildungschancen bieten, Teilhabe und Aufstieg ermöglichen und durch inklusive Bildung sichern. Dazu stärken wir die frühkindliche Bildung, legen den Digitalpakt 2.0 auf und machen das BAföG elternunabhängiger und bauen es für die Förderung der beruflichen Weiterbildung aus. Kinder verdienen beste Bildung. Jedes Kind soll die gleichen Chancen haben. Diese. Chancengleichheit ist aber noch lange nicht Realität. Wir wollen mehr Kinder aus der Armut holen, werden mit der Kindergrundsicherung bessere Chancen für Kinder und Jugendliche schaffen und konzentrieren uns auf die, die am meisten Unterstützung brauchen.

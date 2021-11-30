@@ -2,7 +2,7 @@
 title: "7.3 Außen, Sicherheit, Verteidigung, Entwicklung, Menschenrechte"
 section: "VII"
 statements: []
-published: true
+published: false
 ---
 
 Unsere Außen-, Sicherheits- und Entwicklungspolitik werden wir wertebasiert und europäischer aufstellen. Die deutsche Außenpolitik soll aus einem Guss agieren und ressortübergreifend gemeinsame Strategien erarbeiten, um die Kohärenz unseres internationalen Handelns zu erhöhen. Gemeinsam mit unseren Partnern, auch aus der Zivilgesellschaft, werden wir uns für die Bewahrung unserer freiheitlichen Lebensweise in Europa und den Schutz von Frieden und Menschenrechten weltweit einsetzen. Dabei leiten uns unsere Werte und Interessen.

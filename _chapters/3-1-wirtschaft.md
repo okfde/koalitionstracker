@@ -2,7 +2,7 @@
 title: "3.1 Wirtschaft"
 section: "III"
 statements: []
-published: true
+published: false
 ---
 
 Nach der Corona-Pandemie braucht Deutschlands Wirtschaft einen neuen Aufbruch. Dafür muss die öffentliche Hand Impulse setzen und faire Rahmenbedingungen national und im europäischen Binnenmarkt schaffen. Wir wollen mehr Innovation, mehr Wettbewerbsfähigkeit, mehr Effizienz, gute Arbeit und klimaneutralen Wohlstand. Dafür brauchen wir ein Jahrzehnt der Zukunftsinvestitionen und mehr Tempo. Unser Ziel ist eine sozial-ökologische Marktwirtschaft.

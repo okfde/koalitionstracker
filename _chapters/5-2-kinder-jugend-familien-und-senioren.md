@@ -2,7 +2,7 @@
 title: "5.2 Kinder, Jugend, Familien und Senioren"
 section: "V"
 statements: []
-published: true
+published: false
 ---
 
 Kinder und Jugendliche sollen mit gleichen Lebenschancen aufwachsen, unabhängig von ihrer Herkunft. Sie haben eigene Rechte. Ihre Anliegen und Interessen sind uns wichtig, wir werden junge Menschen an Entscheidungen, die sie betreffen, beteiligen. Familie ist vielfältig und überall dort, wo Menschen Verantwortung füreinander übernehmen. Sie brauchen Zeit und Anerkennung. Förderleistungen wollen wir entbürokratisieren, vereinfachen und digitalisieren. Wir wollen den Rechtsrahmen für Familien modernisieren. Das Wohl des Kindes ist dabei für uns zentral. Wir wollen selbstbestimmtes Leben für ältere Menschen unterstützen und den Zusammenhalt zwischen den Generationen fördern.

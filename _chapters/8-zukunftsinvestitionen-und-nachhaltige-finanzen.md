@@ -2,7 +2,7 @@
 title: "8. Zukunftsinvestitionen und nachhaltige Finanzen"
 section: "VIII"
 statements: []
-published: true
+published: false
 ---
 
 Die 2020er Jahre wollen wir zu einem Jahrzehnt der Zukunftsinvestitionen, insbesondere in Klimaschutz, Digitalisierung, Bildung und Forschung sowie die Infrastruktur, machen. Wir verfolgen dazu eine Politik, die die Investitionen – privat, wie öffentlich – deutlich erhöht.

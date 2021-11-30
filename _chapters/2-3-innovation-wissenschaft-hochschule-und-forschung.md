@@ -2,7 +2,7 @@
 title: "2.3 Innovation, Wissenschaft, Hochschule und Forschung"
 section: "II"
 statements: []
-published: true
+published: false
 ---
 
 Deutschland ist Innovationsland. Starke Wissenschaft und Forschung sind dabei die Garanten für Wohlstand, Lebensqualität, sozialen Zusammenhalt und eine nachhaltige Gesellschaft. Wir haben Lust auf Zukunft und den Mut zu Veränderungen, sind offen für Neues und werden neue technologische, digitale, soziale und nachhaltige Innovationskraft entfachen. Wir setzen neue Impulse für unsere Wissenschafts- und Forschungslandschaft. Unsere Universitäten und Hochschulen für Angewandte Wissenschaften (HAW) werden wir als Herz des Wissenschaftssystems stärken, Innovation und Transfer von der Grundlagenforschung bis in die Anwendung fördern und beschleunigen. Um unseren Wissenschaftsstandort kreativer, exzellenter und wettbewerbsfähiger zu machen, wollen wir ihn europäisch und international weiter vernetzen. Geschlechtergerechtigkeit und Vielfalt in all ihren Dimensionen sind Qualitätsmerkmale und Wettbewerbsfaktoren im Wissenschaftssystem. Wir wollen den Anteil der gesamtstaatlichen Ausgaben für Forschung und Entwicklung auf 3,5 Prozent des BIP bis 2025 erhöhen.

@@ -2,7 +2,7 @@
 title: "9. Arbeitsweise der Regierung und Fraktionen"
 section: "IX"
 statements: []
-published: true
+published: false
 ---
 
 Als Bündnis dreier Partner mit unterschiedlichen Traditionen und Sichtweisen haben wir den Aufbruch in ein innovatives Bündnis verabredet, das Erneuerung, Fortschritt und Chancen bringt zur Lösung der großen Herausforderungen, vor denen unser Land steht.

@@ -2,7 +2,7 @@
 title: "3.4 Mobilität"
 section: "III"
 statements: []
-published: true
+published: false
 ---
 
 Wir wollen die 2020er Jahre zu einem Aufbruch in der Mobilitätspolitik nutzen und eine nachhaltige, effiziente, barrierefreie, intelligente, innovative und für alle bezahlbare Mobilität ermöglichen. Für die notwendigen Veränderungsprozesse werben wir um Akzeptanz und werden unsere Ziele dialogorientiert umsetzen und die Maßnahmen regelmäßig überprüfen. Die erforderlichen Entscheidungen zur Erreichung unserer Klimaschutzziele für 2030 und 2045 mit dem Ziel der Dekarbonisierung des Mobilitätsbereiches werden wir treffen und die praktische Umsetzung deutlich beschleunigen. Mobilität ist für uns ein zentraler Baustein der Daseinsvorsorge, Voraussetzung für gleichwertige Lebensverhältnisse und die Wettbewerbsfähigkeit des Wirtschafts- und Logistikstandorts Deutschland mit zukunftsfesten Arbeitsplätzen. Dafür werden wir Infrastruktur ausbauen und modernisieren sowie Rahmenbedingungen für vielfältige Mobilitätsangebote in Stadt und Land weiterentwickeln.

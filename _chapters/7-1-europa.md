@@ -2,7 +2,7 @@
 title: "7.1 Europa"
 section: "VII"
 statements: []
-published: true
+published: false
 ---
 
 Eine demokratisch gefestigtere, handlungsfähigere und strategisch souveränere Europäische Union ist die Grundlage für unseren Frieden, Wohlstand und Freiheit. In diesem Rahmen bewältigen wir die großen Herausforderungen unserer Zeit wie Klimawandel, Digitalisierung und Bewahrung der Demokratie. Eine solche EU bleibt einer multilateralen und regelbasierten Weltordnung verpflichtet und orientiert sich an den Nachhaltigkeitszielen der Vereinten Nationen (SDG).

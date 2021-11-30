@@ -14,7 +14,7 @@ statements:
     reports:
       - title: "Test2"
         url: "http://example.org"
-published: true
+published: false
 ---
 
 Wir wollen einen grundlegenden Wandel hin zu einem ermöglichenden, lernenden und digitalen Staat, der vorausschauend für die Bürgerinnen und Bürger arbeitet. Es geht darum, das Leben einfacher zu machen. Staatliches Handeln soll schneller und effektiver werden und wirtschaftliche wie gesellschaftliche Innovationsprozesse befördern und einbinden. Wir wollen eine neue Kultur der Zusammenarbeit etablieren, die auch aus der Kraft der Zivilgesellschaft heraus gespeist wird.
