@@ -36,3 +36,4 @@ exclude:
   - Gemfile.lock
   - scripts/
   - requirements.txt
+  - vendor # bundle
