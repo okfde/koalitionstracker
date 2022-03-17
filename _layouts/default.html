@@ -2,7 +2,10 @@
 <html lang="de">
   <head>
     <meta charset="utf-8"/>
-    <title>{{ page.title }}</title>
+
+    <title>Redirecting to {{ page.redirect_url | default: site.redirect_url }}</title>
+    <meta http-equiv="refresh" content="0; URL={{ page.redirect_url | default: site.redirect_url }}">
+    <link rel="canonical" href="{{ page.redirect_url | default: site.redirect_url }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/mvp.css">

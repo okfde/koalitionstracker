@@ -180,6 +180,7 @@ statements:
     status: not_implemented
     summary: Wir stärken den Games-Standort Deutschland
 
+redirect_url: "https://fragdenstaat.de/koalitionstracker/ampelkoalition-2021/digitales/"
 published: true
 ---
 

@@ -1,5 +1,6 @@
 baseurl: "/koalitionstracker" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+redirect_url: "https://fragdenstaat.de/koalitionstracker/"
 
 collections:
   chapters:
