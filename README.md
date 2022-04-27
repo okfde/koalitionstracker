@@ -55,3 +55,16 @@ statements:
 - `last_update` sollte ein Datum sein
 
 - `reports` ist eine Liste von Links zu Nachrichtenartikeln, die den Status beschreiben oder belegen.
+
+## Lokal testen
+
+Der Koalitionstracker wird mit Hilfe von GitHub Pages umgesetzt. Vorgenommene Änderungen können lokal getestet werden. Eine Anleitung dazu findet sich [in der Dokumentation von GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+tl;dr:
+```bash
+bundle config set --local path 'vendor/bundle'
+bundle install
+bundle exec jekyll serve
+```
+
+Unter Arch Linux muss dazu [eine ältere Ruby-Version genutzt werden](https://stackoverflow.com/a/69637708).
